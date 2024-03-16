@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePortal", "EmployeePortal\EmployeePortal.csproj", "{33725E82-8FBB-431E-AC0B-795AEE242723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeData", "EmployeeData\EmployeeData.csproj", "{B29CA1C8-FB70-419E-8917-DE28123A363E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33725E82-8FBB-431E-AC0B-795AEE242723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33725E82-8FBB-431E-AC0B-795AEE242723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33725E82-8FBB-431E-AC0B-795AEE242723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33725E82-8FBB-431E-AC0B-795AEE242723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29CA1C8-FB70-419E-8917-DE28123A363E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29CA1C8-FB70-419E-8917-DE28123A363E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29CA1C8-FB70-419E-8917-DE28123A363E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29CA1C8-FB70-419E-8917-DE28123A363E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D29E0AD-B10D-4D8E-B697-F415359C7FE1}
+	EndGlobalSection
+EndGlobal

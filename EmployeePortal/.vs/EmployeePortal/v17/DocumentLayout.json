@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\employeedata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\employeedata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\views\\employees\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\views\\employees\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\models\\addemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\models\\addemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\migrations\\20240316014033_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\migrations\\20240316014033_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|c:\\users\\ride4dreams\\onedrive\\desktop\\employee portal\\employeeportal\\employeedata\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29CA1C8-FB70-419E-8917-DE28123A363E}|EmployeeData\\EmployeeData.csproj|solutionrelative:employeedata\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeData\\appsettings.json",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\appsettings.json",
+              "RelativeToolTip": "EmployeeData\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T01:34:32.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Program.cs",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Program.cs",
+              "RelativeToolTip": "EmployeeData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:19:19.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeData\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeData\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T04:08:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Views\\Employees\\Add.cshtml",
+              "RelativeDocumentMoniker": "EmployeeData\\Views\\Employees\\Add.cshtml",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Views\\Employees\\Add.cshtml",
+              "RelativeToolTip": "EmployeeData\\Views\\Employees\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T01:53:54.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Views\\Employees\\List.cshtml",
+              "RelativeDocumentMoniker": "EmployeeData\\Views\\Employees\\List.cshtml",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Views\\Employees\\List.cshtml",
+              "RelativeToolTip": "EmployeeData\\Views\\Employees\\List.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T03:54:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeData",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\EmployeeData.csproj",
+              "RelativeDocumentMoniker": "EmployeeData\\EmployeeData.csproj",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\EmployeeData.csproj",
+              "RelativeToolTip": "EmployeeData\\EmployeeData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T01:11:26.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeData\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowEAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:38:56.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Models\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Models\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Models\\Entity\\Employee.cs",
+              "RelativeToolTip": "EmployeeData\\Models\\Entity\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:16:11.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeData\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:13:00.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Models\\AddEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Models\\AddEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Models\\AddEmployeeViewModel.cs",
+              "RelativeToolTip": "EmployeeData\\Models\\AddEmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:31:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeData\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeData\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T04:02:21.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240316014033_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Migrations\\20240316014033_Initial Migration.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Migrations\\20240316014033_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Migrations\\20240316014033_Initial Migration.cs",
+              "RelativeToolTip": "EmployeeData\\Migrations\\20240316014033_Initial Migration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:40:34.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeData\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:09:09.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EmployeeData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\RIDE4DREAMS\\OneDrive\\Desktop\\Employee Portal\\EmployeePortal\\EmployeeData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EmployeeData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:00:47.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
